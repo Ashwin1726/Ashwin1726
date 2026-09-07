@@ -181,21 +181,46 @@ skills, projects, and experience.
 ---
 
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🤖 Artificial Intelligence                          │
-│     └─ ML • DL • GenAI • Computer Vision             │
-│                                                      │
-│  🌐 Full Stack Engineering                           │
-│     └─ React • Next.js • APIs • Databases            │
-│                                                      │
-│  ⚡ Production Development                            │
-│     └─ Scalable • Secure • Maintainable              │
-│                                                      │
-│  🚀 Continuous Learning                              │
-│     └─ Building • Experimenting • Improving          │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+> Building intelligent systems with ML, Deep Learning, Computer Vision & Generative AI.
+
+**ML** · **DL** · **Computer Vision** · **GenAI**
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full Stack Engineering
+> Creating scalable, responsive applications with modern frontend and backend technologies.
+
+**React** · **Next.js** · **APIs** · **Databases**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Production Development
+> Turning ideas into reliable, maintainable and production-ready software.
+
+**Scalable** · **Secure** · **Maintainable**
+
+</td>
+
+<td width="50%">
+
+### 🚀 Continuous Growth
+> Learning new technologies and building projects that solve real-world problems.
+
+**Build** · **Experiment** · **Improve**
+
+</td>
+</tr>
+</table>
