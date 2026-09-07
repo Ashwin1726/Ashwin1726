@@ -11,7 +11,7 @@
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/ashwin2617">
+<a href="www.linkedin.com/in/ashwin2617](https://www.linkedin.com/in/ashwin2617/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ashwinkumar59@gmail.com">
