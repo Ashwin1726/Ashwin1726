@@ -118,45 +118,53 @@ production-ready applications**.
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-### 🧠 Skin Cancer Detection using Deep Learning
+<table>
+<tr>
+<td width="50%">
 
-An AI-powered computer vision system designed to classify
-skin lesions using deep learning techniques.
+### 🧠 Skin Cancer Detection
 
-**Focus:**  
-`Deep Learning` `Computer Vision` `Python` `Jupyter`
+Deep learning-based computer vision system for automated skin lesion classification.
 
----
+**Tech:** Python · TensorFlow · OpenCV
+
+</td>
+
+<td width="50%">
 
 ### 👗 Wardrobe AI
 
-An intelligent fashion-focused application that combines
-AI-powered recommendations with a modern web experience.
+AI-powered fashion recommendation platform designed to deliver personalized outfit suggestions.
 
-**Focus:**  
-`AI` `Recommendation Systems` `Full Stack` `React`
+**Tech:** React · AI · Full Stack
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 💰 AutoCash
 
-An AI-powered application focused on intelligent earning,
-automation, and user-centric digital experiences.
+AI-powered application focused on intelligent automation and user-centric digital experiences.
 
-**Focus:**  
-`AI` `Automation` `Full Stack Development`
+**Tech:** AI · Automation · Full Stack
 
----
+</td>
+
+<td width="50%">
 
 ### 🌐 Developer Portfolio
 
-A modern personal portfolio showcasing my work, technical
-skills, projects, and experience.
+Modern interactive portfolio showcasing projects, skills and developer experience.
 
-**Focus:**  
-`React` `Next.js` `UI/UX` `GSAP`
+**Tech:** Next.js · React · GSAP
+
+</td>
+</tr>
+</table>
 
 ---
 
