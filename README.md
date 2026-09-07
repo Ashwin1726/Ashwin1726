@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/ashwin2617">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/im_ashwinn_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <a href="mailto:ashwinkumar59@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -181,7 +184,7 @@ skills, projects, and experience.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin1726&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin1726&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
