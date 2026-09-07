@@ -180,15 +180,30 @@ skills, projects, and experience.
 
 ---
 
-# 📈 Contribution Activity
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin1726&theme=github-compact&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashwin1726&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin1726&hide_border=true" height="180" />
 
 </div>
 
 ---
+
+## 🚀 Current Focus
+
+<div align="center">
+
+🤖 **Artificial Intelligence** &nbsp; • &nbsp;
+🌐 **Full Stack Development** &nbsp; • &nbsp;
+🧠 **Generative AI** &nbsp; • &nbsp;
+⚡ **Scalable Applications**
+
+</div>
 
 # 🎯 Current Focus
 
