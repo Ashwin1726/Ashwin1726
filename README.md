@@ -2,7 +2,7 @@
 
 <br>
 
-<h1>ASHWIN KUMAR</h1>
+<h1>B ASHWIN KUMAR</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+%26+FULL+STACK+DEVELOPER;MACHINE+LEARNING+%7C+DEEP+LEARNING+%7C+NLP;COMPUTER+VISION+%7C+GENERATIVE+AI;BUILDING+INTELLIGENT+DIGITAL+PRODUCTS" />
 
