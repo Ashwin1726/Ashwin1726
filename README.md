@@ -447,11 +447,6 @@ AI-powered application focused on intelligent automation and digital experiences
 <table>
 <tr>
 
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwin1726&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF&rank_icon=github" width="100%"/>
-
-</td>
 
 <td width="50%">
 
@@ -468,17 +463,6 @@ AI-powered application focused on intelligent automation and digital experiences
 
 </div>
 
----
-
-<div align="center">
-
-<h2>📈 CONTRIBUTION ACTIVITY</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin1726&bg_color=0B0F19&color=FFFFFF&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Ashwin%20Kumar" width="95%"/>
-
-</div>
-
----
 
 <div align="center">
 
