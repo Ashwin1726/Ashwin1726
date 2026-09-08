@@ -444,18 +444,7 @@ AI-powered application focused on intelligent automation and digital experiences
 
 <br>
 
-<table>
-<tr>
 
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin1726&layout=compact&hide_border=true&bg_color=0B0F19&title_color=8B5CF6&text_color=FFFFFF" width="100%"/>
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
